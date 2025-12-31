@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "DNY Wine Hub",
+  title: "DNY Wines Hub",
   icons: {
     icon: '/image/dnyico.png',
     shortcut: '/image/dnyico.png',
