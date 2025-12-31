@@ -101,7 +101,7 @@ export default function Home() {
               <div className="logo-sparkle logo-sparkle-3"></div>
             </div>
             <div className="logo-text">
-              <h1>DNY Wine Hub</h1>
+              <h1>DNY Wines Hub</h1>
               <div className="logo-tagline">Premium Wines & Essentials</div>
             </div>
           </div>
@@ -167,7 +167,7 @@ export default function Home() {
               <h2 className="hero-title">PREMIUM WINES & ESSENTIALS</h2>
               <h3 className="hero-subtitle-main">CURATED FOR EVERY OCCASION</h3>
               <p className="hero-description">
-                DNY Wine Hub Is Your Trusted Destination For Premium Wines And Carefully Selected Accessories.
+                DNY Wines Hub Is Your Trusted Destination For Premium Wines And Carefully Selected Accessories.
               </p>
               <button className="cta-button animate-pulse">
                 <span>Shop Our Collection</span>
@@ -210,7 +210,7 @@ export default function Home() {
         <section className="stats-section animate-slide-up">
           <div className="stats-container">
             <div className="stats-header">
-              <h2 className="stats-title">Why Choose DNY Wine Hub?</h2>
+              <h2 className="stats-title">Why Choose DNY Wines Hub?</h2>
               <p className="stats-subtitle">Experience excellence in every bottle and accessory</p>
             </div>
             
@@ -334,7 +334,7 @@ export default function Home() {
           <div className="promotional-container">
             <div className="promotional-header">
               <h2 className="promotional-title">MORE THAN A WINE STORE</h2>
-              <p className="promotional-subtitle">DNY Wine Hub Was Created For People Who Appreciate Quality And Authenticity</p>
+              <p className="promotional-subtitle">DNY Wines Hub Was Created For People Who Appreciate Quality And Authenticity</p>
             </div>
             
             <div className="promotional-content">
@@ -383,7 +383,7 @@ export default function Home() {
           <div className="section-header">
             <h2 className="section-title">FIND YOUR PERFECT BOTTLE</h2>
             <p className="section-description">
-              To Complete The Experience, DNY Wine Hub Offers A Range Of Essential Accessories From Trusted Brands. 
+              To Complete The Experience, DNY Wines Hub Offers A Range Of Essential Accessories From Trusted Brands. 
               These Products Are Carefully Selected To Complement Your Purchase While Maintaining Quality And Authenticity.
             </p>
           </div>
@@ -427,7 +427,7 @@ export default function Home() {
                 <div className="about-mission animate-slide-left">
                   <h3 className="mission-title">OUR MISSION</h3>
                   <p className="mission-description">
-                    At DNY Wine Hub, we believe that every bottle tells a story and every accessory enhances the experience. 
+                    At DNY Wines Hub, we believe that every bottle tells a story and every accessory enhances the experience. 
                     We are dedicated to bringing you the finest selection of premium wines and carefully curated essentials 
                     that celebrate the art of wine appreciation.
                   </p>
@@ -534,7 +534,7 @@ export default function Home() {
       <footer className="footer">
         <div className="footer-content">
           <div className="footer-logo">
-            <h2>DNY Wine Hub</h2>
+            <h2>DNY Wines Hub</h2>
             <p className="footer-tagline">Premium wines curated for every occasion</p>
           </div>
           <div className="footer-links">
@@ -548,7 +548,7 @@ export default function Home() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>© 2025 DNY Wine Hub. All rights reserved.</p>
+          <p>© 2025 DNY Wines Hub. All rights reserved.</p>
           <p className="footer-note">Curated with passion and precision</p>
         </div>
       </footer>
